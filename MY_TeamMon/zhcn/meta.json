@@ -1,7 +1,7 @@
 {
-  "name": "默认数据",
-  "author": "默认",
-  "version": "20190812",
+  "name": "墨竭风·基于南宫伯的个人数据",
+  "author": "墨竭风",
+  "version": "20200325",
   "data_url": "./data.jx3dat",
   "about": "../README.md"
 }
